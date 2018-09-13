@@ -1,4 +1,4 @@
-Root file 1 version 2
+Root file 1 version 3
 line 1
 line 2
 line 3
@@ -6,3 +6,5 @@ line 4
 line 5
 add 1 more line:
 line 6
+#Add line 7 per business request
+line 7
