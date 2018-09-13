@@ -1,0 +1,6 @@
+Directory 1 -> File 2 initial version
+d1f2 line 1
+d1f2 line 2
+d1f2 line 3
+d1f2 line 4
+d1f2 line 5
